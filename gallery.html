@@ -45,8 +45,20 @@
       <img src="images/20.jfif" height="200">
     
     
-     
-    </marquee>
+    <script>
+        function myFunction() {
+            let video = document.getElementById("urvid");
+            let btn = document.getElementById("pause_button");
+
+            if (video.paused) {
+                video.play();
+                btn.innerText = "Pause";
+            } else {
+                video.pause();
+                btn.innerText = "Play";
+            }
+        }
+    </script>
   </div>
 
   
@@ -57,6 +69,7 @@
 </body>
 
 </html>
+
 
 
 
