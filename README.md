@@ -1,8 +1,6 @@
 <img width="498" height="689" alt="image" src="https://raketcontent.com/1/Screenshot_2024_06_10_085603_e3e895917d.png" /><img width="1090" height="900" alt="image" src="" /># Hey there! I’m Naveen Jholez Alaiza B. Baldemor! 
 Hey there! I’m Mikyla A. Sevilla! 
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://images.prestigeonline.com/wp-content/uploads/sites/8/2024/10/22164758/Screenshot-2567-10-22-at-15.47.50-1090x900.png" height="300" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://images.prestigeonline.com/wp-content/uploads/sites/8/2024/10/22164758/Screenshot-2567-10-22-at-15.47.50-1090x900.png" height="900" /></a>
 
 
 # My Socials
